@@ -27,7 +27,7 @@ Datenerfassung auf dieser Website Wer ist verantwortlich f&amp;uuml;r die Datene
 Feldmannstr. 89
 66119 Saarbrücken
 Kontakt Telefon: 0176/20787724
-E-Mail: psychotherapie-goergen@posteo.de
+E-Mail: psychotherapie-schuler@posteo.de
 Berufsbezeichnung und berufsrechtliche Regelungen Berufsbezeichnung:
 Psychologische Psychotherapeutin
 Zuständige Kammer:
@@ -58,7 +58,7 @@ Angaben zur Berufshaftpflichtversicherung Name und Sitz des Versicherers:</descr
       
       <guid>http://example.org/kontakt/</guid>
       <description>Telefon: 0176/20787724
-E-Mail: psychotherapie-goergen@posteo.de
+E-Mail: psychotherapie-schuler@posteo.de
 Praxisanschrift: Feldmannstr 89, 66119 Saarbrücken
 Anfahrt Feldmannstr. 89, 66119 Saarbrücken / © OpenStreetMap
 Link zu Google Maps</description>
@@ -73,6 +73,21 @@ Link zu Google Maps</description>
       <description>Ich biete sowohl Psychotherapie an als auch einzelne Beratungstermine an. Diese können sowohl in der Praxis als auch online stattfinden.
 Themen könnten unter Anderem sein:
 Depression / depressive Verstimmungen Burnout oder berufliche Konflikte Geringes Selbstwertgefühl Orientierungs- oder Motivationslosigkeit Suche nach dem Sinn Psychische Probleme ausgelöst durch Lebenskrisen Partnerschafts- und Familienkonflikte Traumata (Belastungsreaktionen auf schwerwiegende Ereignisse), posttraumatische Belastungsstörungen (PTBS) Zwänge / Zwangsstörung Ängste / Angststörung Schlafstörungen Essstörungen Sexuelle Probleme Psychosomatische Probleme </description>
+    </item>
+    
+    <item>
+      <title>Willkommen</title>
+      <link>http://example.org/index_back/</link>
+      <pubDate>Wed, 06 Jul 2022 21:06:54 +0200</pubDate>
+      
+      <guid>http://example.org/index_back/</guid>
+      <description>Herzlich Willkommen in meiner Privatpraxis für Psychotherapie in Saarbrücken.
+Mein Name ist Ann-Christin Schuler und ich bin approbierte Psychotherapeutin mit dem Schwerpunkt in tiefenpsychologischer Psychotherapie.
+Mein Name ist Ann-Christin Schuler und ich bin approbierte Psychotherapeutin mit dem Schwerpunkt in tiefenpsychologischer Psychotherapie.
+Auf dieser Seite erhalten Sie Informationen über meinem psychotherapeutisches Angebot, meinem Behandlungskonzept, und den Therapieablauf.
+TODO
+Ich lade Sie ein, sich hier einen ersten Eindruck über
+mein psychotherapeutisches Angebot, mein Behandlungskonzept, und den Therapieablauf zu verschaffen.</description>
     </item>
     
     <item>
