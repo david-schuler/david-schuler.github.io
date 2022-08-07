@@ -28,9 +28,5 @@
   </url><url>
     <loc>http://example.org/incablauf/</loc>
     <priority>0</priority>
-  </url><url>
-    <loc>http://example.org/categories/</loc>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
   </url>
 </urlset>
