@@ -1,0 +1,45 @@
+p {
+/*  
+  text-align: justify;
+  text-justify: newspaper;
+*/
+}
+ 
+.bg-gold {
+/*
+// background: rgb(9,149,176);
+// background: linear-gradient(180deg, rgba(9,149,176,1) 35%, rgba(0,212,255,1) 100%);
+// 
+// 
+// background: rgb(9,105,176);
+// background: linear-gradient(180deg, rgba(9,105,176,1) 35%, rgba(0,212,255,1) 100%);
+// 
+// 
+// background: rgb(67,198,219);
+// background: linear-gradient(180deg, rgba(67,198,219,1) 0%, rgba(190,246,255,1) 100%);
+*/
+
+
+background: rgb(4,98,118);
+background: linear-gradient(180deg, rgba(4,98,118,1) 0%, rgba(244,244,244,1) 100%);
+
+background: rgb(37,134,145);
+background: linear-gradient(180deg, rgba(37,134,145,1) 0%, rgba(244,244,244,1) 100%);
+background: rgb(34,193,195);
+background: linear-gradient(153deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+
+background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+background: rgb(244,244,244);
+background: linear-gradient(90deg, rgba(244,244,244,1) 0%, rgba(176,244,240,1) 50%);
+
+background: initial;
+background-image: url("/back_3c.jpg");
+
+}
+
+article:nth-of-type(1)
+{
+    padding-top: 0px;
+   /* border:5px solid red; */
+} 
