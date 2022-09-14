@@ -1,8 +1,13 @@
-var ic = 0;
+var ic = 1;
 var added = 0;
 var background_pos = 0
 
 document.addEventListener('DOMContentLoaded', moveChangeImage, false);
+document.addEventListener('dblclick', changeImage, false);
+
+function changeImage(){
+  testA(1)
+}
 
 function moveChangeImage(){
   if(added == 0){
@@ -34,7 +39,8 @@ function moveChangeImage(){
 }
 
 function test(){
-  testA(1);
+  background_pos += 25;
+  testA(0);
 }
 
 function testA(add){
