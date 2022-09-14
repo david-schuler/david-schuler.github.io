@@ -7,7 +7,10 @@ p {
  
 .bg-gold {
 background: initial;
-background-image: url("/back_3c.jpg");
+background-image: url("/back_1.jpg");
+/*
+ * background-position: 0 -100px;
+ */
 }
 
 article:nth-of-type(1)
