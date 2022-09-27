@@ -25,8 +25,5 @@
   </url><url>
     <loc>http://example.org/ueber_mich/</loc>
     <lastmod>2022-07-06T18:28:40+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/incablauf/</loc>
-    <priority>0</priority>
   </url>
 </urlset>
